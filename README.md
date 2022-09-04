@@ -1,5 +1,5 @@
 # stable-diffusion-test
-Example getting stable diffusion models running locally with low memory GPU (<8 GB)
+Example getting stable diffusion models running locally with low-er memory GPUs (8-16 GB)
 
 ## Setup
 1. Sign in to huggingface: https://huggingface.co/welcome
