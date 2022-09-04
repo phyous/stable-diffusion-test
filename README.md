@@ -8,3 +8,5 @@ Example getting stable diffusion models running locally with low memory GPU (<8 
 4. pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/nightly/cu113
 5. Run `txt2img.py` using any prompt you want. e.g:
 > python3 txt2img.py Cosmic chicken giving birth to the universe as an egg
+
+See also `stable_diffusion_examples.ipynb` for a notebook version of the script
